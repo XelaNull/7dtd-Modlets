@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Magazine_Skillpoint" />
+		<Description value="Give a skillpoint with each magazine" />
+		<Author value="Dr. XelaNull"/>
+		<Version value="A18_1.0" />
+		<Website value="https://github.com/XelaNull/7dtd-Modlets.git" />
+	</ModInfo>
+</xml>

@@ -1,0 +1,21 @@
+<configs>
+  <!--
+	<append xpath="/quests/quest/property[@name='completiontype'][@value='TurnIn']/../property[@name='category_key'][@value='quest']/..">
+		<reward type="Item" id="skillbook" value="1" />
+	</append>
+-->
+	<append xpath="/quests">
+		<quest id="quest_SkillPointReward">
+		<property name="group_name_key" value="quest_SkillPointReward" />
+		<property name="name_key" value="Skill Reward" />
+		<property name="subtitle_key" value="Skill point added" />
+		<property name="description_key" value="Skill point added" />
+		<property name="icon" value="ui_game_symbol_map_bed" />
+		<property name="category_key" value="quest" />
+		<property name="difficulty" value="veryeasy"/>
+		<property name="offer_key" value="You have earned another skill point" />
+		<property name="shareable" value="false" />
+		<reward type="SkillPoints" value="1" />
+		</quest>
+	</append>
+</configs>

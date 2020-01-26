@@ -1,0 +1,16 @@
+<config>
+  <append xpath="/items/item[@name='schematicMaster']">
+    <property class="Action1">
+      <property name="Class" value="Quest"/>
+      <property name="Delay" value="0"/>
+      <property name="QuestGiven" value="quest_SkillPointReward"/>
+    </property>
+  </append>
+  <append xpath="/items/item[@name='skillBookMaster']">
+    <property class="Action1">
+      <property name="Class" value="Quest"/>
+      <property name="Delay" value="0"/>
+      <property name="QuestGiven" value="quest_SkillPointReward"/>
+    </property>
+  </append>
+</config>
