@@ -2,8 +2,8 @@
 <xml>
 	<ModInfo>
 		<Name value="Pickup_Plants_A18" />
-		<Description value="Allows press E to pickup all plants" />
-		<Author value="Based on Ragsy2145's Pickup_Plants Modlet"/>
+		<Description value="Allows press E to pickup all plants. Based on Ragsy2145's Pickup_Plants Modlet" />
+		<Author value="ShoudenKalferas"/>
 		<Version value="A18_1.0" />
 		<Website value="https://github.com/XelaNull/7dtd-Modlets.git" />
 	</ModInfo>
