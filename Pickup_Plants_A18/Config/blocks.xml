@@ -52,4 +52,8 @@
 	<property name="Class" value="CropsGrown"/>
 	</append>
 	
+	<append xpath="/blocks/block[@name='foodCropMushrooms']">
+	<property name="Class" value="CropsGrown"/>
+	</append>
+	
 </configs>
