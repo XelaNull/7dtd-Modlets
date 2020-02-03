@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="60Slot_Bag_30Reserve" />
+		<Description value="60 Slot Bag, with 30 Slots not available initially." />
+		<Author value="ShoudenKalferas, Based on Donovan's Longer Loot Bags & Mega Loot Bags"/>
+		<Version value="A18.3_1.1" />
+		<Website value="https://github.com/XelaNull/7dtd-Modlets.git" />
+	</ModInfo>
+</xml>
