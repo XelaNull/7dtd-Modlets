@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="60Slot_Bag_30Reserve" />
-		<Description value="60 Slot Bag, with 30 Slots not available initially." />
+		<Name value="Headshot_25" />
+		<Description value="25% Inrease Headshot Damage." />
 		<Author value="ShoudenKalferas, Based on TSBX"/>
 		<Version value="A18.3_1.1" />
 		<Website value="https://github.com/XelaNull/7dtd-Modlets.git" />
