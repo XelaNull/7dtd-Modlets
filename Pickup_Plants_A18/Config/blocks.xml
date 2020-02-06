@@ -52,7 +52,7 @@
 	<property name="Class" value="CropsGrown"/>
 	</append>
 	
-	<append xpath="/blocks/block[@name='foodCropMushrooms']">
+	<append xpath="/blocks/block[@name='mushroom01']">
 	<property name="Class" value="CropsGrown"/>
 	</append>
 	
