@@ -2,9 +2,9 @@
 <xml>
 	<ModInfo>
 		<Name value="Magazine_Skillpoint" />
-		<Description value="Give a skillpoint with each magazine" />
+		<Description value="Give a skillpoint with each magazine and schematic" />
 		<Author value="ShoudenKalferas"/>
-		<Version value="A18.3_1.0" />
+		<Version value="A18.3_1.2" />
 		<Website value="https://github.com/XelaNull/7dtd-Modlets.git" />
 	</ModInfo>
 </xml>

@@ -4,7 +4,7 @@
 		<Name value="ZLoot_Increase" />
 		<Description value="Increase chance for Zombies to drop a loot bag, and keep it from disappearing for 15 minutes." />
 		<Author value="ShoudenKalferas, Based on Donovan's Longer Loot Bags and Mega Loot Bags"/>
-		<Version value="A18.3_1.1a" />
+		<Version value="A18.3_1.2" />
 		<Website value="https://github.com/XelaNull/7dtd-Modlets.git" />
 	</ModInfo>
 </xml>
